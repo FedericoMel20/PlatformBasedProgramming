@@ -7,3 +7,4 @@ const weatherData = {
 
 let result = checkCondition(weatherData)
 console.log(result);
+module.exports = {checkCondition}
